@@ -26,7 +26,7 @@
 
 ## Freeware
 
-<a href="http://wp10714721.server-he.de/?page_id=345">SilentCMD</a> &#8211; Executes a batch file without opening the command prompt window.
+<a href="freeware/SilentCMD.html">SilentCMD</a> &#8211; Executes a batch file without opening the command prompt window.
 
 <a href="http://wp10714721.server-he.de/?page_id=93">MJPEG Converter</a> &#8211; Searches for MJPEG files and converts them to MPEG-4 (H.264).
 
