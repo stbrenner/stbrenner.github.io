@@ -4,6 +4,7 @@
 [LinkedIn](https://www.linkedin.com/in/stephanbrenner)
 
 # Spare time projects
+
 ## Apps
 [InstantRuby](https://www.microsoft.com/en-us/store/p/instantruby/9wzdncrdc1w3) &#8211; Windows Store app to develop and execute simple Ruby programs  
 
