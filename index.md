@@ -14,20 +14,14 @@
 
 ## Open source
 
-<a href="https://github.com/stbrenner/socket.io-proxy">socket.io-proxy</a> &#8211; Socket.io client that works well behind a proxy
+[SilentCMD](https://github.com/stbrenner/SilentCMD) &#8211; Executes a batch file without opening the command prompt window.
 
-<a href="https://github.com/stbrenner/RefExplorer">.NET Reference Explorer</a> &#8211; Windows software to display dependencies between .NET assemblies
+[socket.io-proxy](https://github.com/stbrenner/socket.io-proxy) &#8211; Socket.io client that works well behind a proxy
 
-<a href="https://github.com/stbrenner/SilentCMD">SilentCMD</a> &#8211; Executes a batch file without opening the command prompt window.
+[.NET Reference Explorer](https://github.com/stbrenner/RefExplorer) &#8211; Windows software to display dependencies between .NET assemblies
 
-[FGet](https://github.com/stbrenner/fget) &#8211; Command line file downloader with resume functionality
+[gtest_mem](https://github.com/stbrenner/gtest_mem) &#8211; Memory Leak Detector for Google Test
 
-<a href="https://github.com/stbrenner/gtest_mem">gtest_mem</a> &#8211; Memory Leak Detector for Google Test
-
-<a href="https://github.com/stbrenner/autoproxy">autoproxy</a> &#8211; Command line tool for Linux and Windows to detect and set proxy servers
-
-<a href="https://github.com/stbrenner/NiLogViewer">NI Log Viewer</a> &#8211; Viewer for HEAT DSM log files
-
-<a href="https://github.com/stbrenner/vim-config">vim-config</a> &#8211; VIM configuration that includes useful plugins and customizations
+[autoproxy](https://github.com/stbrenner/autoproxy) &#8211; Command line tool for Linux and Windows to detect and set proxy servers
 
 <br><br><br><br><br>
