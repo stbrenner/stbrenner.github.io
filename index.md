@@ -1,4 +1,4 @@
-.
+ 
 # More about me
 [Twitter](https://twitter.com/sbrenner)
 
