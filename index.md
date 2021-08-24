@@ -1,8 +1,8 @@
  
-# More about me
-[Twitter](https://twitter.com/sbrenner)
-
+# About me
 [LinkedIn](https://www.linkedin.com/in/stephanbrenner)
+
+[Twitter](https://twitter.com/sbrenner)
 
 # Spare time projects
 
