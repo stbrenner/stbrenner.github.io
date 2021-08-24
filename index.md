@@ -1,4 +1,5 @@
- 
+&nbsp;
+
 # About me
 [LinkedIn](https://www.linkedin.com/in/stephanbrenner)
 
