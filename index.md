@@ -1,4 +1,5 @@
-# More about me:
+.
+# More about me
 [Twitter](https://twitter.com/sbrenner)
 
 [LinkedIn](https://www.linkedin.com/in/stephanbrenner)
