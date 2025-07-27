@@ -1,6 +1,8 @@
 &nbsp;
 
 # Contact
+[E-Mail](https://kontactr.com/form-page/714c6aeeea74d6b)
+
 [LinkedIn](https://www.linkedin.com/in/stephanbrenner)
 
 # Spare time projects
