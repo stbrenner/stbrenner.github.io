@@ -3,8 +3,6 @@
 # Contact
 [LinkedIn](https://www.linkedin.com/in/stephanbrenner)
 
-[Twitter](https://twitter.com/sbrenner)
-
 # Spare time projects
 
 ## Apps
