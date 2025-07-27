@@ -1,6 +1,6 @@
 &nbsp;
 
-# About me
+# Contact
 [LinkedIn](https://www.linkedin.com/in/stephanbrenner)
 
 [Twitter](https://twitter.com/sbrenner)
@@ -9,10 +9,6 @@
 
 ## Apps
 [InstantPython](https://www.microsoft.com/en-us/p/instantpython/9wzdncrdc1w5) &#8211; Windows app to develop and execute simple Python programs
-
-[InstantRuby](https://www.microsoft.com/en-us/store/p/instantruby/9wzdncrdc1w3) &#8211; Windows app to develop and execute simple Ruby programs  
-
-[Namenstage](https://www.microsoft.com/en-us/store/p/namenstage/9nblggh0jvzp) &#8211; Windows Phone app for displaying German name days
 
 ## Open source
 
