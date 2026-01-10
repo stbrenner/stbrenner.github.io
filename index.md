@@ -5,12 +5,14 @@
 
 [LinkedIn](https://www.linkedin.com/in/stephanbrenner)
 
-# Spare time projects
+# Spare Time Projects
 
 ## Apps
 [InstantPython](https://www.microsoft.com/en-us/p/instantpython/9wzdncrdc1w5) &#8211; Windows app to develop and execute simple Python programs
 
-## Open source
+[QR Copy](https://qrcopy.com) &#8211; Web app to copy data between electronic devices with help of QR codes
+
+## Open Source
 
 [SilentCMD](https://github.com/stbrenner/SilentCMD) &#8211; Executes a batch file without opening the command prompt window.
 
