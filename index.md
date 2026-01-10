@@ -10,7 +10,7 @@
 ## Apps
 [InstantPython](https://www.microsoft.com/en-us/p/instantpython/9wzdncrdc1w5) &#8211; Windows app to develop and execute simple Python programs
 
-[QR Copy](https://qrcopy.com) &#8211; Web app to copy data between electronic devices with help of QR codes
+[QR Copy](https://qrcopy.app) &#8211; Web app to copy data between electronic devices with help of QR codes
 
 ## Open Source
 
