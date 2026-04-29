@@ -8,7 +8,7 @@
 # Spare Time Projects
 
 ## Apps
-[InstantPython](https://www.microsoft.com/en-us/p/instantpython/9wzdncrdc1w5) &#8211; Windows app to develop and execute simple Python programs
+[InstantPython](https://instantpython.app) &#8211; A lightweight Python IDE that runs your script the moment you hit Run
 
 [QR Copy](https://qrcopy.app) &#8211; Web app to copy data between electronic devices with help of QR codes
 
